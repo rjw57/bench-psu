@@ -5,7 +5,7 @@
 // Pins for rotary encoder switch
 const int PIN_RE_SW = 6;
 const int PIN_RE_CLK = 7;
-const int PIN_RW_DT = 8;
+const int PIN_RE_DT = 8;
 
 // Pins for LCD module
 const int PIN_LCD_RS = A0;
@@ -16,8 +16,8 @@ const int PIN_LCD_D6 = 4;
 const int PIN_LCD_D7 = 5;
 
 // Output pins to D3806 module
-const int PIN_VOUT_SET = 9;
-const int PIN_IOUT_SET = 10;
+const int PIN_IOUT_SET = 9;
+const int PIN_VOUT_SET = 10;
 const int PIN_NOT_ON = A7;
 
 // Input pins from D3806
